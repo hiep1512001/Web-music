@@ -1,0 +1,30 @@
+:root {
+    --text-color: #000;
+}
+
+
+body {
+    background-color: #121212;
+}
+
+.col-md-2-5{
+    flex: 0 0 auto;
+    width: 20%;
+}
+
+.item__margin-top {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.item__margin-top a {
+    display: block;
+}
+
+.none-btn {
+    display: none!important;
+}
+
+.border-radius {
+    border-radius: 50px;
+}
